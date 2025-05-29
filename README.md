@@ -1,4 +1,5 @@
 FNP Data Analysis and Dashboard
+
 Project Overview 📊
 This project involves an in-depth analysis of a dataset provided by FNP (Ferns N Petals), a leading gifting company specializing in various occasions such as Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries. The dataset encompasses critical information regarding products, customer orders, customer demographics, and relevant dates.
 
